@@ -1,0 +1,10 @@
+{
+  "name": "primer",
+  "description": "Inicializado con Bower para probar packages",
+  "main": "",
+  "authors": [
+    "Jansen Peña <jansenadan@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
